@@ -1,0 +1,11 @@
+lib/
+    main.dart
+    app.dart
+    models/
+    providers/
+    screens/
+        auth/
+        dashboard/
+    services/
+    widgets/
+    utils/

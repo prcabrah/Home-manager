@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "913520509453",
+    "project_id": "house-manager-ed57d",
+    "storage_bucket": "house-manager-ed57d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913520509453:android:2ac9ff40775b32faaa4b44",
+        "android_client_info": {
+          "package_name": "com.Segz.Home_Manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwPD2EuirUnv_McoOnrgveJazXXdQMnEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913520509453:android:52efaf8a9a64835eaa4b44",
+        "android_client_info": {
+          "package_name": "com.example.house_manager_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwPD2EuirUnv_McoOnrgveJazXXdQMnEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
